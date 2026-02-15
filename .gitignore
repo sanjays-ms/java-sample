@@ -63,4 +63,4 @@ bin/
 build/
 .github/
 *_PLAN.md
-docs/MY_PROGRESS.md
+ignorefiles/
