@@ -45,10 +45,11 @@ Anyone learning Spring Boot should be able to pick up any document here and foll
 | 2 | Controllers and Request Mapping | [controllers.md](rest-api/controllers.md) |
 | 3 | HTTP Methods and Status Codes | [http-methods-and-status-codes.md](rest-api/http-methods-and-status-codes.md) |
 | 4 | Request and Response Handling | [request-response-handling.md](rest-api/request-response-handling.md) |
-| 5 | DTOs and Data Transfer | [dtos.md](rest-api/dtos.md) |
-| 6 | Input Validation | [input-validation.md](rest-api/input-validation.md) |
-| 7 | Pagination and Sorting | [pagination-and-sorting.md](rest-api/pagination-and-sorting.md) |
-| 8 | API Versioning | [api-versioning.md](rest-api/api-versioning.md) |
+| 5 | ResponseEntity | [response-entity.md](rest-api/response-entity.md) |
+| 6 | DTOs and Data Transfer | [dtos.md](rest-api/dtos.md) |
+| 7 | Input Validation | [input-validation.md](rest-api/input-validation.md) |
+| 8 | Pagination and Sorting | [pagination-and-sorting.md](rest-api/pagination-and-sorting.md) |
+| 9 | API Versioning | [api-versioning.md](rest-api/api-versioning.md) |
 
 ### Database and JPA
 
