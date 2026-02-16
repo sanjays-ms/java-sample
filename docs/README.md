@@ -58,10 +58,11 @@ Anyone learning Spring Boot should be able to pick up any document here and foll
 | 1 | Relational Database Basics | [database-basics.md](database/database-basics.md) |
 | 2 | JPA and Hibernate | [jpa-and-hibernate.md](database/jpa-and-hibernate.md) |
 | 3 | Entities and Table Mapping | [entities.md](database/entities.md) |
-| 4 | Repositories and Queries | [repositories.md](database/repositories.md) |
-| 5 | Entity Relationships | [entity-relationships.md](database/entity-relationships.md) |
-| 6 | N+1 Problem and Solutions | [n-plus-one-problem.md](database/n-plus-one-problem.md) |
-| 7 | Database Migrations (Flyway) | [database-migrations.md](database/database-migrations.md) |
+| 4 | @Column Annotation | [column-annotation.md](database/column-annotation.md) |
+| 5 | Repositories and Queries | [repositories.md](database/repositories.md) |
+| 6 | Entity Relationships | [entity-relationships.md](database/entity-relationships.md) |
+| 7 | N+1 Problem and Solutions | [n-plus-one-problem.md](database/n-plus-one-problem.md) |
+| 8 | Database Migrations (Flyway) | [database-migrations.md](database/database-migrations.md) |
 
 ### Error Handling
 
