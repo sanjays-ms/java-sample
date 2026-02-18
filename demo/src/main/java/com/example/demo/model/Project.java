@@ -18,6 +18,8 @@ import lombok.Setter;
 @Getter // Part of Lombok avoid verbosity by not having to write Getters
 @Setter // Part of Lombok avoid verbosity by not having to write Setters
 @NoArgsConstructor // Part of Lombok - no argument constuctor
+// A no argument constructor is always needed if there is an argument constructor provided
+// If no constructor java will provide one so we don't need to specify
 public class Project {
   @Id
   @GeneratedValue(strategy = GenerationType.IDENTITY)

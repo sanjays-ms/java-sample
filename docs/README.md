@@ -25,9 +25,10 @@ Anyone learning Spring Boot should be able to pick up any document here and foll
 |---|---|---|
 | 1 | What is Spring Boot | [spring-boot-overview.md](spring-boot/spring-boot-overview.md) |
 | 2 | Project Structure | [project-structure.md](spring-boot/project-structure.md) |
-| 3 | Application Configuration | [application-configuration.md](spring-boot/application-configuration.md) |
-| 4 | Dependency Injection and Beans | [dependency-injection.md](spring-boot/dependency-injection.md) |
-| 5 | Profiles and Environment Config | [profiles-and-environment.md](spring-boot/profiles-and-environment.md) |
+| 3 | Annotations Reference (Import Guide) | [annotations-reference.md](spring-boot/annotations-reference.md) |
+| 4 | Application Configuration | [application-configuration.md](spring-boot/application-configuration.md) |
+| 5 | Dependency Injection and Beans | [dependency-injection.md](spring-boot/dependency-injection.md) |
+| 6 | Profiles and Environment Config | [profiles-and-environment.md](spring-boot/profiles-and-environment.md) |
 
 ### Maven
 
