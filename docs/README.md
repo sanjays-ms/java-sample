@@ -61,9 +61,10 @@ Anyone learning Spring Boot should be able to pick up any document here and foll
 | 3 | Entities and Table Mapping | [entities.md](database/entities.md) |
 | 4 | @Column Annotation | [column-annotation.md](database/column-annotation.md) |
 | 5 | Repositories and Queries | [repositories.md](database/repositories.md) |
-| 6 | Entity Relationships | [entity-relationships.md](database/entity-relationships.md) |
-| 7 | N+1 Problem and Solutions | [n-plus-one-problem.md](database/n-plus-one-problem.md) |
-| 8 | Database Migrations (Flyway) | [database-migrations.md](database/database-migrations.md) |
+| 6 | Transactions and @Transactional | [transactions.md](database/transactions.md) |
+| 7 | Entity Relationships | [entity-relationships.md](database/entity-relationships.md) |
+| 8 | N+1 Problem and Solutions | [n-plus-one-problem.md](database/n-plus-one-problem.md) |
+| 9 | Database Migrations (Flyway) | [database-migrations.md](database/database-migrations.md) |
 
 ### Error Handling
 
